@@ -1,6 +1,6 @@
 {
   "name": "mountable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mountable provides a collection of independent UI components and utilities, ready to be mounted to any web application.",
   "main": "index.js",
   "repository": {
