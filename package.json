@@ -1,6 +1,6 @@
 {
   "name": "mountable",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Mountable provides a collection of independent UI components and utilities, ready to be mounted to any web application.",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mountable/mountable",
   "dependencies": {
-    "@mountable/ripples": "0.0.14",
+    "@mountable/ripples": "0.0.15",
     "@mountable/spinners": "0.0.24"
   }
 }
