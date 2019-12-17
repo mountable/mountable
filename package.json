@@ -20,6 +20,6 @@
   "homepage": "https://github.com/mountable/mountable",
   "dependencies": {
     "@mountable/ripples": "0.0.15",
-    "@mountable/spinners": "0.0.24"
+    "@mountable/spinners": "0.0.25"
   }
 }
